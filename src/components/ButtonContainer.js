@@ -4,4 +4,4 @@ const ButtonContainer = ({ children }) => {
   return <div className="buttonContainer">{children}</div>;
 };
 
-export const ButtonContainer
+export default ButtonContainer;

@@ -1,5 +1,5 @@
 import { Textfit } from "react-textfit";
-import ".Display.css";
+import "./Display.css";
 
 const Display = ({ value }) => {
   return (
