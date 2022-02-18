@@ -1,7 +1,7 @@
 import "./Body.css";
 
 const Body = ({ children }) => {
-  return <div className="Body">{children}</div>;
+  return <div className="body">{children}</div>;
 };
 
 export default Body;
